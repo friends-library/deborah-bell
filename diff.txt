@@ -1,0 +1,98 @@
+diff --git a/life-and-letters/modernized/04-pike-correspondence.adoc b/life-and-letters/modernized/04-pike-correspondence.adoc
+index 01a8c0c..3f7b511 100644
+--- a/life-and-letters/modernized/04-pike-correspondence.adoc
++++ b/life-and-letters/modernized/04-pike-correspondence.adoc
+@@ -1,7 +1,7 @@
+ [#pike, short="Correspondence with Joseph Pike"]
+ == Epistolary Correspondence between Deborah Bell and Joseph Pike
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -79,7 +79,7 @@ for I have an open heart to receive good counsel.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -122,7 +122,7 @@ and such as are next in degree to them.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -209,7 +209,7 @@ and so be a help, strength, and confirmation one to another.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -314,7 +314,7 @@ and many we see who are not willing or able to bear these things.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Joseph Pike to Deborah Bell.
+ 
+ [.signed-section-context-open]
+diff --git a/life-and-letters/original/04-pike-correspondence.adoc b/life-and-letters/original/04-pike-correspondence.adoc
+index a44eeef..d770083 100644
+--- a/life-and-letters/original/04-pike-correspondence.adoc
++++ b/life-and-letters/original/04-pike-correspondence.adoc
+@@ -1,7 +1,7 @@
+ [#pike, short="Correspondence with Joseph Pike"]
+ == Epistolary Correspondence between Deborah Bell and Joseph Pike
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -79,7 +79,7 @@ for I have an open heart to receive good counsel.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -122,7 +122,7 @@ and such as are next in degree to them.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -209,7 +209,7 @@ and so be a help, strength, and confirmation one to another.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Deborah Bell to Joseph Pike.
+ 
+ [.signed-section-context-open]
+@@ -313,7 +313,7 @@ and many we see who are not willing or able to bear these things.
+ [.signed-section-signature]
+ Deborah Bell.
+ 
+-[.letter-participants]
++[.letter-heading]
+ Joseph Pike to Deborah Bell.
+ 
+ [.signed-section-context-open]
