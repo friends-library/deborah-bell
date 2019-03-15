@@ -696,6 +696,9 @@ she wrote me another, desiring to be resolved about women`'s preaching, saying,
 she thought me a proper person to apply to, being concerned in that service;
 to which I replied in substance as follows.
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Dear friend,
 
@@ -895,6 +898,8 @@ willing to satisfy thee in what I can.
 [.signed-section-signature]
 Deborah Bell.
 
+--
+
 A considerable time after, this young woman came to a meeting where I was,
 and when it ended, told me she was the person who had written me divers letters,
 and received my answers, desiring to have some conversation with me,
@@ -904,6 +909,9 @@ and was much tendered through the visitation of the love of God to her;
 and some time after, finding my heart opened in the love of God,
 earnestly desiring her preservation and settlement in the Truth,
 I wrote and sent her the following letter.
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Dear friend,
@@ -1007,6 +1015,8 @@ and know their peace to be made with him, before time to them here shall be more
 
 [.signed-section-signature]
 Deborah Bell.
+
+--
 
 Having felt drawings in my mind for some time,
 to visit meetings in the southern counties of England, and the city of London,

@@ -1,6 +1,9 @@
 [#pike, short="Correspondence with Joseph Pike"]
 == Epistolary Correspondence between Deborah Bell and Joseph Pike
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 Deborah Bell to Joseph Pike.
 
@@ -79,6 +82,11 @@ for I have an open heart to receive good counsel.
 [.signed-section-signature]
 Deborah Bell.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 Deborah Bell to Joseph Pike.
 
@@ -121,6 +129,11 @@ and such as are next in degree to them.
 
 [.signed-section-signature]
 Deborah Bell.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 Deborah Bell to Joseph Pike.
@@ -208,6 +221,14 @@ and so be a help, strength, and confirmation one to another.
 
 [.signed-section-signature]
 Deborah Bell.
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 Deborah Bell to Joseph Pike.
@@ -314,6 +335,11 @@ and many we see who are not willing or able to bear these things.
 [.signed-section-signature]
 Deborah Bell.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 Joseph Pike to Deborah Bell.
 
@@ -368,3 +394,5 @@ Amen.
 
 [.signed-section-signature]
 Joseph Pike.
+
+--
