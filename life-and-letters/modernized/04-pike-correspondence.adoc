@@ -227,9 +227,6 @@ Deborah Bell.
 [.embedded-content-document.letter]
 --
 
-[.embedded-content-document.letter]
---
-
 [.letter-heading]
 Deborah Bell to Joseph Pike.
 
