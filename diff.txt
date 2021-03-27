@@ -3,7 +3,7 @@ index 01a8c0c..3f7b511 100644
 --- a/life-and-letters/modernized/04-pike-correspondence.adoc
 +++ b/life-and-letters/modernized/04-pike-correspondence.adoc
 @@ -1,7 +1,7 @@
- [#pike, short="Correspondence with Joseph Pike"]
+ [short="Correspondence with Joseph Pike"]
  == Epistolary Correspondence between Deborah Bell and Joseph Pike
  
 -[.letter-participants]
@@ -52,7 +52,7 @@ index a44eeef..d770083 100644
 --- a/life-and-letters/original/04-pike-correspondence.adoc
 +++ b/life-and-letters/original/04-pike-correspondence.adoc
 @@ -1,7 +1,7 @@
- [#pike, short="Correspondence with Joseph Pike"]
+ [short="Correspondence with Joseph Pike"]
  == Epistolary Correspondence between Deborah Bell and Joseph Pike
  
 -[.letter-participants]
